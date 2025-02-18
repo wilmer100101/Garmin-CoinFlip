@@ -1,0 +1,4 @@
+<animations>
+    <animation id="tailsanimation" filename="tailsanimation.mmm"/>
+    <animation id="headsanimation" filename="headsanimation.mmm"/>
+</animations>
